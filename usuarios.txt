@@ -1,0 +1,9 @@
+Ana,1,1
+David,1,1
+& C:/Users/David/AppData/Local/Programs/Python/Python313/python.exe c:/Users/David/Desktop/Lo_mio/main.py,0,0
+Juan,0,0
+D,0,0
+d,0,0
+w,0,0
+e,0,0
+R,0,0
